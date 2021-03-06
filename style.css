@@ -1,0 +1,36 @@
+.head {
+    background-color: darkviolet;
+    height: 45px  ;
+}
+.middle {
+    
+    background-color: blue;
+    height: 200px;
+}
+.content1 ul{
+    text-decoration: none;
+}
+.content{
+    background-color: deeppink;
+    height: 400px;
+    display: flex;
+}
+.content1 {
+    text-decoration: none;
+    background-color: red;
+   
+    width: 30%;
+    
+
+}
+.content2 {
+    background-color: green;
+  width: 70%;
+  
+   
+}
+.footer{
+    
+    background-color: black;
+    height: 60px;
+}
